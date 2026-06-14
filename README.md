@@ -12,7 +12,7 @@ Replace the `[BRACKETED]` placeholders and send.
 
 ## The full bundle
 
-The complete **Compliance Audit Email Templates** ($19 standalone / $49 Pro) adds:
+The complete **Compliance Audit Email Templates** ($19 standalone) adds:
 
 - **All 60 templates** - every workflow, every tone
 - **HTML format** for paste-into-Gmail/Outlook use (Pro)
